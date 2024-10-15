@@ -1,1 +1,2 @@
 Here is a line of text in a text file
+Checking to see if there's an edit conflict.
